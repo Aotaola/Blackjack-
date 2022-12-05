@@ -1,0 +1,347 @@
+{
+    "cards": [
+      {
+        "id": 1,
+        "name": "Shoyu Ramen",
+        "image": "./assets/ramen/shoyu.jpg",
+        "value":
+    
+      },
+
+      {
+        "id": 2,
+        "name": "Naruto Ramen",
+        "image": "./assets/ramen/naruto.jpg",
+        "value":
+      },
+      {
+        "id": 3,
+        "name": "Shoyu Ramen",
+        "image": "./assets/ramen/shoyu.jpg",
+        "value": 7,
+      },
+      {
+        "id": 4,
+        "name": "Shoyu Ramen",
+        "image": "./assets/ramen/shoyu.jpg",
+        "value": 
+      },
+      {
+       "id":5,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+     },
+     {
+        "id":6,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+     },
+      {
+        "id":7,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+      {
+        "id":8,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+      {
+        "id":9,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+      {
+        "id":10,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+      {
+        "id":11,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+      {
+        "id":12,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+      {
+        "id":13,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+      {
+        "id":14,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+      {
+        "id":15,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+      {
+        "id":16,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+      {
+        "id":18,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+      {
+        "id":19,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+      {
+        "id":20,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+      {
+        "id":21,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+      {
+        "id":22,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+      {
+        "id":23,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+      {
+        "id":24,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+      {
+        "id":25,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+      {
+        "id":26,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+      {
+        "id":27,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+      {
+        "id":28,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+      {
+        "id":29,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+      {
+        "id":30,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+      {
+        "id":31,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+      {
+        "id":32,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+      {
+        "id":33,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+      {
+        "id":34,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+      {
+        "id":35,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+      {
+        "id":36,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+      {
+        "id":37,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+      {
+        "id":38,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+      {
+        "id":39,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+      {
+        "id":40,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+      {
+        "id":41,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+      {
+        "id":42,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+      {
+        "id":43,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+
+      },
+      {
+        "id":44,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+
+      },
+      {
+        "id":45,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+
+      },
+      {
+        "id":46,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+
+      },
+      {
+        "id":47,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+
+      },
+      {
+        "id":48,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+
+      },
+      {
+        "id":49,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+
+      },
+      {
+        "id":50,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+
+      },
+      {
+        "id":51,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+
+      },
+
+      {
+        "id":52,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+
+      },
+      {
+        "id":53,
+       "name":,
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+    
+      "users": [
+      {
+        "id":1,
+       "name": "dealer",
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+      {
+        "id":2,
+       "name":"player",
+       "image": "./assets/ramen/shoyu.jpg",
+       "value"
+      },
+      {
+
+      },
+      ]
+    ]
+    
