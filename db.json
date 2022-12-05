@@ -154,176 +154,177 @@
       },
       {
         "id":27,
-       "name":,
-       "image": "./assets/ramen/shoyu.jpg",
-       "value"
+       "name": "8H",
+       "image": "./cardimage/8_of_hearts.png",
+       "value": 8
       },
       {
         "id":28,
-       "name":,
-       "image": "./assets/ramen/shoyu.jpg",
-       "value"
-      },
-      {
-        "id":29,
-       "name":,
-       "image": "./assets/ramen/shoyu.jpg",
-       "value"
-      },
-      {
-        "id":30,
-       "name":,
-       "image": "./assets/ramen/shoyu.jpg",
-       "value"
-      },
-      {
-        "id":31,
-       "name":,
-       "image": "./assets/ramen/shoyu.jpg",
-       "value"
-      },
-      {
-        "id":32,
-       "name":,
-       "image": "./assets/ramen/shoyu.jpg",
-       "value"
-      },
-      {
-        "id":33,
-       "name":,
-       "image": "./assets/ramen/shoyu.jpg",
-       "value"
-      },
-      {
-        "id":34,
-       "name":,
-       "image": "./assets/ramen/shoyu.jpg",
-       "value"
-      },
-      {
-        "id":35,
-       "name":,
-       "image": "./assets/ramen/shoyu.jpg",
-       "value"
-      },
-      {
-        "id":36,
-       "name":,
-       "image": "./assets/ramen/shoyu.jpg",
-       "value"
-      },
-      {
-        "id":37,
-       "name":,
-       "image": "./assets/ramen/shoyu.jpg",
-       "value"
-      },
-      {
-        "id":38,
-       "name":,
-       "image": "./assets/ramen/shoyu.jpg",
-       "value"
-      },
-      {
-        "id":39,
-       "name":,
-       "image": "./assets/ramen/shoyu.jpg",
-       "value"
-      },
-      {
-        "id":40,
-       "name":,
-       "image": "./assets/ramen/shoyu.jpg",
-       "value"
-      },
-      {
-        "id":41,
-       "name":,
-       "image": "./assets/ramen/shoyu.jpg",
-       "value"
-      },
-      {
-        "id":42,
-       "name":,
-       "image": "./assets/ramen/shoyu.jpg",
-       "value"
-      },
-      {
-        "id":43,
-       "name":,
-       "image": "./assets/ramen/shoyu.jpg",
-       "value"
+       "name": "8S",
+       "image": "./cardimage/8_of_spades.png",
+       "value": 9
 
       },
       {
+        "id":29,
+       "name": "9C",
+       "image": "./assets/9_of_clubs.png",
+       "value": 9
+      },
+      {
+        "id":30,
+      "name": "9D",
+      "image": "./assets/9_of_diamonds.png",
+      "value": 9
+      },
+      {
+        "id":31,
+      "name": "9H",
+      "image": "./assets/9_of_hearts.png",
+      "value": 9
+      },
+      {
+        "id":32,
+       "name": "9S",
+      "image": "./assets/9_of_spades.png",
+      "value": 9
+      },
+      {
+        "id":33,
+        "name": "10C",
+        "image": "./assets/10_of_clubs.png",
+        "value": 10
+      },
+      {
+        "id":34,
+       "name": "10D",
+      "image": "./assets/10_of_diamonds.png",
+      "value": 10
+      },
+      {
+        "id":35,
+      "name": "10H",
+      "image": "./assets/10_of_hearts.png",
+      "value": 10
+      },
+      {
+        "id":36,
+       "name": "10S",
+      "image": "./assets/10_of_spades.png",
+      "value": 10
+      },
+      
+      {
+        "id":37,
+      "name": "11AC",
+      "image": "./assets/ace_of_clubs.png",
+      "value": 11
+      },
+      {
+        "id":38,
+      "name": "11AD",
+      "image": "./assets/ace_of_diamonds.png",
+      "value": 11
+      },
+      {
+        "id":39,
+       "name": "11AH",
+      "image": "./assets/ace_of_hearts.png",
+      "value": 11
+      },
+      {
+        "id":40,
+       "name": "11AS",
+       "image": "./assets/ace_of_spades.png",
+       "value": 11
+      },
+      {
+        "id":41,
+       "name": "10_JC",
+      "image": "./assets/jack_of_clubs2.png",
+      "value": 10
+      },
+      {
+        "id":42,
+        "name": "10_JD",
+        "image": "./assets/jack_of_diamonds2.png",
+        "value": 10
+      },
+      {
+        "id":43,
+      "name": "10_JH",
+      "image": "./assets/jack_of_hearts2.png",
+      "value": 10
+      },
+      {
         "id":44,
-       "name":,
-       "image": "./assets/ramen/shoyu.jpg",
-       "value"
+       "name": "10_JS",
+       "image": "./assets/jack_of_spades2.png",
+       "value": 10 
 
       },
       {
         "id":45,
-       "name":,
-       "image": "./assets/ramen/shoyu.jpg",
-       "value"
+      "name": "10KC",
+      "image": "./assets/king_of_clubs2.png",
+      "value": 10
 
       },
       {
-        "id":46,
-       "name":,
-       "image": "./assets/ramen/shoyu.jpg",
-       "value"
+      "id":46,
+       "name": "10KD",
+      "image": "./assets/king_of_diamonds2.png",
+      "value": 10
 
       },
       {
         "id":47,
-       "name":,
-       "image": "./assets/ramen/shoyu.jpg",
-       "value"
+       "name": "10KH",
+      "image": "./assets/king_of_hearts2.png",
+      "value": 10
 
       },
       {
         "id":48,
-       "name":,
-       "image": "./assets/ramen/shoyu.jpg",
-       "value"
+       "name": "10KS",
+       "image": "./assets/king_of_spades2.png",
+       "value": 10
 
       },
       {
         "id":49,
-       "name":,
-       "image": "./assets/ramen/shoyu.jpg",
-       "value"
+       "name": "10QC",
+       "image": "./assets/queen_of_clubs2.png",
+       "value": 10
 
       },
       {
         "id":50,
-       "name":,
-       "image": "./assets/ramen/shoyu.jpg",
-       "value"
+       "name": "10QH",
+       "image": "./assets/queen_of_diamonds2.png",
+       "value": 10
 
       },
       {
-        "id":51,
-       "name":,
-       "image": "./assets/ramen/shoyu.jpg",
-       "value"
+       "id":51,
+       "name": "10QD"
+       "image": "./assets/queen_of_hearts2.png",
+       "value": 10
 
       },
 
       {
         "id":52,
-       "name":,
-       "image": "./assets/ramen/shoyu.jpg",
-       "value"
+       "name": "10QS",
+       "image": "./assets/queen_of_spades2.png",
+       "value": 10
 
       },
       {
         "id":53,
-       "name":,
-       "image": "./assets/ramen/shoyu.jpg",
-       "value"
+       "name": "",
+       "image": "",
+       "value": 
       },
     
       "users": [
