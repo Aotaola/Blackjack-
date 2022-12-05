@@ -1,0 +1,54 @@
+header{ padding-left: 41%;
+    padding-right: 41%}
+#submit-card {
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 10%;
+}
+    h3 {
+    margin-top: -20px;
+    font-style: italic;
+    padding-top: 5%;
+}
+.container {
+    height: 90vh;
+    margin: 2rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    color: grey
+  }
+.cell {
+    color: white;
+    font-size: 3rem;
+    text-align: center;
+    padding: 4rem;
+  }
+  #blackjack{
+    border-style: solid;
+    border-width: 5px;
+    background-color: whitesmoke;
+    border-color: black ;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    
+}
+body {
+
+    padding-left: 15%;
+    padding-right: 15%
+    
+}
+fieldset { 
+    padding-top: 20%;
+    border-style: solid;
+    border-width: 5px;
+    background-color: green;
+    border-color: brown
+}
+#card-name{
+    border-style: solid;
+    border-width: 3px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+}
