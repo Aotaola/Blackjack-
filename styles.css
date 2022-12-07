@@ -52,3 +52,9 @@ fieldset {
     font-family: 'Times New Roman', Times, serif;
     font-weight: 300;
 }
+
+img {
+    height: 60px;
+    width: 60px;
+    
+  }
